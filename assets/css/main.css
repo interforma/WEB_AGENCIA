@@ -276,7 +276,7 @@ section h2::after {
 /* Hero Section */
 .hero {
     min-height: 100vh;
-    /* Usar Midnight Blue oscuro para el overlay */
+    /* Usar Midnight Blue oscuro para el overlayy */
     background: linear-gradient(rgba(2, 0, 53, 0.7), rgba(2, 0, 53, 0.7)), url("../img/hero/hero2.jpg") center/cover no-repeat fixed;
     display: flex;
     align-items: center;
